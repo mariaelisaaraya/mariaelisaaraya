@@ -15,12 +15,13 @@
 * SASS
 * Tailwind
 * JavaScript
-* Python(Pandas) 
 * Typescript
 * React
 * Angular
 * SQL
 * Postman
+
+  
 * Aprendiendo Golang
 * Aprendiendo Java
 * Aprendiendo Astro
