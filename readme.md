@@ -20,8 +20,6 @@
 * Angular
 * SQL
 * Postman
-
-  
 * Aprendiendo Golang
 * Aprendiendo Java
 * Aprendiendo Astro
