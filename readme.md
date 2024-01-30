@@ -16,7 +16,7 @@
 
 🚀 En Aprendizaje: React.
 
-✨ En el 2020, inicié mi carrera docente dando clases a **mini programadoras** en el club de [Chicas Programadoras](http://www.chicasprogramadoras.club/) sobre Diseño Web, HTML, CSS, Git y Lógica. Actualmente doy clases en [Jump](https://www.jumpedu.org/) sobre NodeJs
+✨ En el 2020, inicié mi carrera docente dando clases a **mini programadoras** en el club de [Chicas Programadoras](http://www.chicasprogramadoras.club/) sobre Diseño Web, HTML, CSS, Git y Lógica. Di clases en [Jump](https://www.jumpedu.org/) sobre NodeJs y actualmente doy clases de lógica a adolescentes en forma particular por medio de jitsy.
  
 
 ![10](https://user-images.githubusercontent.com/55170175/114474409-87dd6800-9bcc-11eb-9ca0-538bd30ae29b.png)
