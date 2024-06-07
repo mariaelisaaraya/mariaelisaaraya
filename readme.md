@@ -1,23 +1,27 @@
 ![10](https://user-images.githubusercontent.com/55170175/114474409-87dd6800-9bcc-11eb-9ca0-538bd30ae29b.png)
 
 ## 🖤¡Hola! 
-### 👋 Soy Maria Elisa y en el mundo tecnológico me llaman Lisa
+### 👋 Soy Maria Elisa, pero en el mundo tecnológico me llaman Lisa.
 
+ Soy desarrolladora Full Stack con un fuerte enfoque en pruebas backend usando **Go** y desarrollo frontend con **Angular**, complementado con consultas **MySQL**. Actualmente, estoy dedicando mi tiempo libre a mejorar mis habilidades en frontend, enfocándome en React, y en 2024 estoy profundizando en blockchain y Web3.
 
-+ En mi rol actual como full stack, me destaco en la realización de pruebas con el lenguaje **Go** en el backend y en el uso diario de **Angular** para el frontend, complementado con consultas en **MySQL**.
-+ Actualmente en mi tiempo libre mi enfoque principal está en mejorar mis habilidades en el frontend, centrándome especialmente en **React** y el 2024 también me encuentra aprendiendo un montón de blockchain + Web3
-+ En mi trayectoria laboral he tenido experiencia como coordinadora de equipos en el área de salud, específicamente en situaciones de urgencia, en mi [LinkedIn](https://www.linkedin.com/in/arayamariaelisa/) escribí varios artículos sobre salud y código, me gusta mezclar los dos conceptos para afianzar mis conocimientos en programación.
-
+ Además de mi carrera en tecnología, tengo experiencia como coordinadora de equipos en el área de salud, específicamente en situaciones de urgencia. He escrito varios artículos en LinkedIn sobre salud y programación, fusionando estos conceptos para fortalecer mis conocimientos.
 
 ![10](https://user-images.githubusercontent.com/55170175/114474409-87dd6800-9bcc-11eb-9ca0-538bd30ae29b.png)
 
 ## 🖤 Stack Tecnológico:
-🕵 Habilidades Actuales: Golang, JavaScript, TypeScript, Angular, MySql.
+🕵️ Habilidades Actuales:
+- Golang
+- JavaScript
+- TypeScript
+- Angular
+- MySQL
 
-🚀 En Aprendizaje: React, Solidity.
+🚀 En Aprendizaje:
+- React
+- Solidity
 
-✨ En el 2020, inicié mi carrera docente dando clases a **mini programadoras** en el club de [Chicas Programadoras](http://www.chicasprogramadoras.club/) sobre Diseño Web, HTML, CSS, Git y Lógica. Di clases en [Jump](https://www.jumpedu.org/) sobre NodeJs y actualmente doy clases de lógica a adolescentes en forma particular por medio de jitsy.
- 
+✨ En el 2020, inicié mi carrera docente dando clases a **mini programadoras** en el club de [Chicas Programadoras](http://www.chicasprogramadoras.club/) sobre Diseño Web, HTML, CSS, Git y Lógica. Actualmente también doy clases en [Jump](https://www.jumpedu.org/) sobre [NodeJs](https://github.com/mariaelisaaraya/tareasIngeniasAlumnas) y clases de lógica a adolescentes en forma particular por medio de jitsy.
 
 ![10](https://user-images.githubusercontent.com/55170175/114474409-87dd6800-9bcc-11eb-9ca0-538bd30ae29b.png)
 
