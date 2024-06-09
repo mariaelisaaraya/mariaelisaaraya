@@ -14,6 +14,7 @@ Actualmente, estoy dedicando mi tiempo libre a mejorar mis habilidades en fronte
 ## 🖤 Stack Tecnológico:
 🕵️ Habilidades Actuales:
 - Golang
+- NodeJs
 - JavaScript
 - TypeScript
 - Angular
