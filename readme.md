@@ -23,6 +23,8 @@ Actualmente, estoy dedicando mi tiempo libre a mejorar mis habilidades en fronte
 - React
 - Solidity
 
+![10](https://user-images.githubusercontent.com/55170175/114474409-87dd6800-9bcc-11eb-9ca0-538bd30ae29b.png)
+
 ✨ Trayectoria:
 
 - 2020: Inicié mi carrera docente dando clases a mini programadoras en el club de [Chicas Programadoras](http://www.chicasprogramadoras.club/) sobre Diseño Web, HTML, CSS, Git y Lógica. Actualmente también doy clases en [Jump](https://www.jumpedu.org/) sobre [NodeJs](https://github.com/mariaelisaaraya/tareasIngeniasAlumnas).
@@ -42,4 +44,3 @@ Actualmente, estoy dedicando mi tiempo libre a mejorar mis habilidades en fronte
 *  [LinkedIn](https://www.linkedin.com/in/arayamariaelisa/)
 
 
-![10](https://user-images.githubusercontent.com/55170175/114474409-87dd6800-9bcc-11eb-9ca0-538bd30ae29b.png)
