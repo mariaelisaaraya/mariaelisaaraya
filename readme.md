@@ -1,7 +1,7 @@
 ![10](https://user-images.githubusercontent.com/55170175/114474409-87dd6800-9bcc-11eb-9ca0-538bd30ae29b.png)
 
 ## 🖤¡Hola! 
-### 👋 Soy Maria Elisa, pero en el mundo tecnológico me llaman Lisa.
+### 👋 Mi nombre es Maria Elisa, pero en el mundo tecnológico me llaman Lisa.
 
 Me dedico al desarrollo Frontend y Backend con un fuerte enfoque en pruebas usando Go y desarrollo con Angular, complementado con consultas MySQL.
 
