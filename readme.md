@@ -30,7 +30,7 @@ Actualmente, estoy dedicando mi tiempo libre a mejorar mis habilidades en fronte
 
 - 2024: Empecé a estudiar Solidity, Blockchain y protocolos. Gané mi [primera hackathon](https://github.com/mariaelisaaraya/web3wonderwomen) en blockchain en mayo con el protocolo ENS y ahora más que nunca estoy enfocada en esa área.
   
-- 2023: Me dediqué a estudiar mientras trabajaba a la experiencia de personas usuarias y los principios de UX/UI para fortalecer esa área.
+- 2023: Me enfoqué en estudiar mientras trabajaba centrándome en la experiencia de usuario (UX/UI) para fortalecer mis habilidades en esta área.
 
 - 2022: Ascendí como FullStack haciendo foco en Angular, Golang, MySQL y Docker.
   
