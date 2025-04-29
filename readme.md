@@ -20,9 +20,7 @@ Actualmente, estoy dedicando mi tiempo libre a mejorar mis habilidades en fronte
 - Angular
 - MySQL
 
-🚀 En Aprendizaje:
-- React
-- Solidity
+🚀 En Aprendizaje: Solidity - Rust
 
 ![10](https://user-images.githubusercontent.com/55170175/114474409-87dd6800-9bcc-11eb-9ca0-538bd30ae29b.png)
 
