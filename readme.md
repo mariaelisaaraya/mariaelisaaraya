@@ -1,35 +1,55 @@
 ![Banner](https://user-images.githubusercontent.com/55170175/114474409-87dd6800-9bcc-11eb-9ca0-538bd30ae29b.png)
 
-## 🖤 ¡Hola!
-### 👋 Mi nombre es Elisa pero en el mundo tecnológico me llaman Lisa.
+## 🖤 Desarrolladora Full Stack & Tech Enthusiast ¡Hola!
 
-Me especializo en desarrollo **Frontend y Backend**, con un fuerte enfoque en **pruebas con Go** y desarrollo con **Angular**, complementado con consultas en **MySQL**.
+### 👋 Mi nombre es Elisa (Lisa en el ecosistema tech)
 
-Actualmente, estoy dedicando mi tiempo libre a fortalecer mis habilidades en **frontend**, enfocándome en **React**, y desde 2024 me estoy sumergiendo en el mundo de **blockchain** y **Web3**.
+- **Backend:** Especialista en Go con enfoque en arquitecturas de pruebas robustas y desarrollo de APIs REST
+- **Frontend:** Experiencia sólida en Angular (Components, Services, RxJS, NgRx)
+- **Base de Datos:** Diseño e implementación de consultas optimizadas en MySQL
+- **DevOps:** Integración y despliegue continuo (CI/CD), containerización con Docker
 
-Además de mi carrera en tecnología, tengo experiencia como **coordinadora de equipos en salud**, específicamente en situaciones de urgencia. He escrito varios artículos en LinkedIn sobre salud y programación, fusionando estos conceptos para enriquecer mis conocimientos.
+### Proyectos En Curso:
+Explorando tecnologías Web3 y desarrollo blockchain (Smart Contracts, DApps)
+
+### Background Multidisciplinario:
+Mi experiencia liderando equipos en entornos de alta presión en el sector salud ha forjado mis habilidades de gestión de crisis, resolución de problemas complejos y comunicación efectiva — capacidades que aplico diariamente en el desarrollo de software:
+- Gestión de crisis y resolución de problemas complejos
+- Liderazgo de equipos multidisciplinarios
+- Comunicación efectiva en situaciones críticas
+
+### Creadora de Contenido:
+Autora de publicaciones técnicas de web3 en Mirror  
 
 ---
 
-## 🖤 Stack Tecnológico
+## 🛠️ Stack Tecnológico
 
-### 🕵️ Habilidades Actuales
-- Golang
-- Node.js
-- JavaScript
-- TypeScript
-- Angular
-- MySQL
+### Core Skills
+```javascript
+const techStack = {
+  backend: ['Go', 'Node.js'],
+  frontend: ['Angular', 'TypeScript', 'JavaScript', 'HTML5', 'CSS3'],
+  database: ['MySQL'],
+  devOps: ['Docker'],
+  testing: ['Unit Testing', 'Integration Testing', 'TDD'],
+  tools: ['Git', 'GitHub', 'VSCode', 'Postman']
+};
+```
 
-### 🚀 En Aprendizaje
-- Solidity
-- Rust
-
+### Learning & Growth
+```javascript
+const currentlyLearning = {
+  web3: ['Solidity', 'Blockchain Protocols', 'Smart Contracts', 'ENS'],
+  frontend: ['React', 'Redux'],
+  other: ['Rust']
+};
+```
 ---
 
 ## ✨ Trayectoria
 
-- **2024**: Empecé a estudiar **Solidity, Blockchain y protocolos**. Ganamos nuestra [primera hackathon](https://github.com/mariaelisaaraya/web3wonderwomen) en blockchain en mayo, usando el protocolo ENS. Ahora más que nunca estoy enfocada en esta área.
+- **2024**: Incursión en **Solidity, Blockchain y protocolos**. Primer premio en nuestra [primera hackathon](https://github.com/mariaelisaaraya/web3wonderwomen) en blockchain en mayo, usando el protocolo ENS. Ahora más que nunca estoy enfocada en esta área.
   
 - **2023**: Me enfoqué en el estudio mientras trabajaba, centrándome en **experiencia de usuario (UX/UI)** para mejorar mis habilidades de diseño y usabilidad.
 
@@ -37,13 +57,26 @@ Además de mi carrera en tecnología, tengo experiencia como **coordinadora de e
 
 - **2021**: Ingresé al mundo laboral como desarrolladora. Inicié en **Help Desk**, haciendo pruebas de código y consultas SQL, y luego avancé como técnica en desarrollo.
 
-- **2020**: Fui seleccionada para una beca de **Globant y Acamica** para formarme como **FullStack Developer**. Al mismo tiempo, comencé mi carrera docente dando clases a mini programadoras en el club de [Chicas Programadoras](http://www.chicasprogramadoras.club/) sobre **HTML, CSS, Git y lógica**. Actualmente también enseño en [Jump](https://www.jumpedu.org/) sobre [Node.js](https://github.com/mariaelisaaraya/tareasIngeniasAlumnas).
+- **2020**: Fui seleccionada para una beca de **Globant y Acamica** para formarme como **FullStack Developer**. 
 
 ---
 
-![Divider](https://user-images.githubusercontent.com/55170175/114474409-87dd6800-9bcc-11eb-9ca0-538bd30ae29b.png)
+## 👩‍🏫 Enseñanza & Mentoría
+Comparto mi pasión por la tecnología enseñando:
+
+- JavaScripy Node.js en Jump
+- Programación básica, HTML, CSS, Git, lógica, en Chicas Programadoras
+
+
+---
+
+
+
+ "La tecnología más poderosa es aquella que resuelve problemas reales de las personas" 
 
 ## 🖤 Conéctate conmigo
 
 - [LinkedIn](https://www.linkedin.com/in/arayamariaelisa/)
-- [GitHub](https://github.com/mariaelisaaraya)
+
+![Divider](https://user-images.githubusercontent.com/55170175/114474409-87dd6800-9bcc-11eb-9ca0-538bd30ae29b.png)
+ 
