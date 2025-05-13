@@ -1,6 +1,6 @@
 ![Banner](https://user-images.githubusercontent.com/55170175/114474409-87dd6800-9bcc-11eb-9ca0-538bd30ae29b.png)
 
-## 🖤 Desarrolladora Full Stack & Tech Enthusiast ¡Hola!
+## 🖤 Desarrolladora Full Stack & Cripto Enthusiast ¡Hi!
 
 ### 👋 Mi nombre es Elisa (Lisa en el ecosistema tech)
 
