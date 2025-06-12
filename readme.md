@@ -32,7 +32,6 @@ const coreExpertise = {
 ```javascript
 const emergingSkills = {
   blockchain: ['Solidity', 'ENS', 'Smart Contracts'],
-  frontend: ['React', 'Redux'],
   sistemas: ['Arquitecturas descentralizadas']
 };
 ```
