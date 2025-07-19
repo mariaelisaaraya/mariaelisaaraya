@@ -11,7 +11,8 @@
 
 ### 🚀 Proyectos Actuales
 Inmersa en desarrollo Web3: 
-- Creación de contenido técnico sobre Web3 en [Mirror](https://mirror.xyz/0xB534e2Df315dB1772af193b1491BD91BE4cf635E)
+- Algunos estudios de Web3 y empresas [Mirror](https://mirror.xyz/0xB534e2Df315dB1772af193b1491BD91BE4cf635E)
+- Creación de contenido y un viaje más personal sobre web3 en [DEV](https://dev.to/ar3lisa)
 - Investigación activa de Solidity y protocolos descentralizados
 
 ---
