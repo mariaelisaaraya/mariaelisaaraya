@@ -37,7 +37,7 @@ I’m passionate about building blockchain projects with **real-world social imp
 ## 🛠️ Tech Stack
 ```js
 const coreExpertise = {
-  languages: ['Go', 'TypeScript', 'JavaScript', 'Solidity'],
+  languages: ['Go', 'TypeScript', 'JavaScript'],
   frameworks: ['Angular', 'Node.js', 'Next.js'],
   databases: ['MySQL (query optimization)'],
   devOps: ['Docker', 'CI/CD'],
