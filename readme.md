@@ -16,11 +16,11 @@ I’m passionate about building blockchain projects with **real-world social imp
 
 ## 🏆 Hackathons & Key Projects
 
-✨ **DeFiWise** – Blockchain-powered financial education platform.  
+✨ **DeFiWise (Ethereum)*** – Blockchain-powered financial education platform.  
 - 🎓 NFTs as diplomas + premium access with Unlock Protocol.  
 - 🔗 [Repo](https://github.com/gabimancini/web3wonderwomen) 
 
-🎶 **EthicalMusic** 
+🎶 **EthicalMusic (Ethereum)** 
 - Collaborative music platform ensuring traceability & fair monetization for artists.  
 - 🔗 [Repo](https://github.com/mariaelisaaraya/EthicalMusic) | 
 
@@ -28,7 +28,7 @@ I’m passionate about building blockchain projects with **real-world social imp
 - Smart contract to distribute rewards in **USDC** without intermediaries, designed for NGOs and communities.  
 - 🔗 [Repo](https://github.com/mariaelisaaraya/GoLazyStellar) 
 
-🌍 **Trace(Stellar)** 
+🌍 **Trace (Stellar)** 
 - Social impact platform with full transparency, built on Stellar + Soroban.   
 🔗 [Repo](https://github.com/Trace-org/Trace)  
 
@@ -41,7 +41,7 @@ const coreExpertise = {
   frameworks: ['Angular', 'Node.js', 'Next.js'],
   databases: ['MySQL (query optimization)'],
   devOps: ['Docker', 'CI/CD'],
-  blockchain: ['Stellar', 'ENS', 'Soroban'],
+  blockchain: ['Solidity','Stellar', 'ENS', 'Soroban'],
   methodologies: ['TDD', 'Clean Code']
 };
 ```
