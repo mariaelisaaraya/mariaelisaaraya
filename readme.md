@@ -16,7 +16,7 @@ I’m passionate about building blockchain projects with **real-world social imp
 
 ## 🏆 Hackathons & Key Projects
 
-✨ **DeFiWise (Ethereum)*** – Blockchain-powered financial education platform.  
+✨ **DeFiWise (Ethereum)** – Blockchain-powered financial education platform.  
 - 🎓 NFTs as diplomas + premium access with Unlock Protocol.  
 - 🔗 [Repo](https://github.com/gabimancini/web3wonderwomen) 
 
@@ -30,7 +30,11 @@ I’m passionate about building blockchain projects with **real-world social imp
 
 🌍 **Trace (Stellar)** 
 - Social impact platform with full transparency, built on Stellar + Soroban.   
-🔗 [Repo](https://github.com/Trace-org/Trace)  
+🔗 [Repo](https://github.com/Trace-org/Trace)
+
+🔎 **ArbiScan (Arbitrum)**  
+- Real-time tool to validate tokens & NFTs, detecting risks, auditing smart contracts, and preventing frauds.   
+- 🔗 [Repo](https://github.com/tu-repositorio/ArbiScan)
 
 ---
 
