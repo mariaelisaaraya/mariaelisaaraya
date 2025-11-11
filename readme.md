@@ -3,6 +3,9 @@
 # 🖤 Hi there! I'm Elisa (Lisa)  
 
 👩🏻‍💻 **Full Stack & Web3 Developer** with hands-on experience in **Solidity, smart contracts, and scalable systems**.  
+
+Cofounder of [Buen Día Builders](https://github.com/BuenDia-Builders) with [Tati](https://github.com/tatianaborda) — a community empowering women to learn, build, and lead in Web3.
+
 I’m passionate about building blockchain projects with **real-world social impact** and also teaching as a **backend & fullstack instructor**.  
 
 ---
