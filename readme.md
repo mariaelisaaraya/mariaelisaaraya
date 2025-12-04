@@ -1,6 +1,6 @@
 ![Banner](https://user-images.githubusercontent.com/55170175/114474409-87dd6800-9bcc-11eb-9ca0-538bd30ae29b.png)
 
-# 🖤 Hi there! I'm Elisa (Lisa)  
+# 🖤 Hi there! I'm Elisa  
 
 👩🏻‍💻 **Full Stack & Web3 Developer** with hands-on experience in **Solidity, smart contracts, and scalable systems**.  
 
@@ -37,7 +37,7 @@ I’m passionate about building blockchain projects with **real-world social imp
 
 🔎 **ArbiScan (Arbitrum)**  
 - Real-time tool to validate tokens & NFTs, detecting risks, auditing smart contracts, and preventing frauds.   
-- 🔗 [Repo](https://github.com/tu-repositorio/ArbiScan)
+- 🔗 [Repo](https://github.com/mariaelisaaraya/arbiscan)
 
 ---
 
