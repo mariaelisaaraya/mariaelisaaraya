@@ -8,42 +8,41 @@
 - Creating **code-first content** (tutorials, live coding, real setups)
 - Turning learning into **production-grade execution**
 
-📺 **YouTube — code, not hype**  
-https://www.youtube.com/@Ar3lisa
+📺 **[YouTube](https://www.youtube.com/@Ar3lisa) — code, not hype**  
 
 ---
 
 ## Featured project
 
-🗺️ **Stellar Map**  
+🏆 **1st Prize — Ideatón Chile 2026**  
+
+🗺️ **[Stellar Map](https://github.com/mariaelisaaraya/stellar-map )**  
 An interactive concept map to understand Stellar end-to-end:  
 SCP, Soroban, DeFi ecosystem, developer tooling, real-world use cases and LATAM adoption.
 
-🏆 **1st Prize — Ideatón Chile**  
-🔗 https://github.com/mariaelisaaraya/stellar-map  
-🎬 1-minute explainer: https://youtu.be/NbOfPqrYFeE
+🎬 [1-minute explainer](https://youtu.be/NbOfPqrYFeE)
 
 ---
 
 ## Selected projects & hackathons
 
-- 🏆 **Stellar Map (Stellar)** — ecosystem onboarding & mental models  
-  https://github.com/mariaelisaaraya/stellar-map
+- 🏆 [Stellar Map](https://github.com/mariaelisaaraya/stellar-map) — ecosystem onboarding & mental models  
+  
 
-- 🏆 **GoLazy (Stellar)** — USDC rewards distribution for NGOs & communities  
-  https://github.com/mariaelisaaraya/GoLazyStellar
+- 🏆 [GoLazy-Soroban](https://github.com/mariaelisaaraya/GoLazyStellar) — USDC rewards distribution for NGOs & communities  
+  
 
-- 🌍 **Trace (Stellar + Soroban)** — transparent social impact platform  
-  https://github.com/Trace-org/Trace
+- 🏆 [Trace-Soroban](https://github.com/Trace-org/Trace) — transparent social impact platform  
+  
 
-- 🎶 **EthicalMusic (Ethereum)** — fair monetization & traceability for artists  
-  https://github.com/mariaelisaaraya/EthicalMusic
+- 🏆 [EthicalMusic-Ethereum](https://github.com/mariaelisaaraya/EthicalMusic) — fair monetization & traceability for artists  
+  
 
-- 🔎 **ArbiScan (Arbitrum)** — token & NFT risk validation tool  
-  https://github.com/mariaelisaaraya/arbiscan
+- 🏆 [ArbiScan-Arbitrum](https://github.com/mariaelisaaraya/arbiscan) — token & NFT risk validation tool  
+  
 
-- ✨ **DeFiWise (Ethereum)** — financial education with NFTs & gated access  
-  https://github.com/gabimancini/web3wonderwomen
+- 🏆 [DeFiWise-Ethereum](https://github.com/gabimancini/web3wonderwomen) — financial education with NFTs & gated access  
+  
 
 ---
 
@@ -51,8 +50,8 @@ SCP, Soroban, DeFi ecosystem, developer tooling, real-world use cases and LATAM 
 
 I write to **clarify systems**, not to oversimplify them.
 
-- Paragraph → https://paragraph.com/@araya3lisa
-- DEV → https://dev.to/ar3lisa
+- [Paragraph](https://paragraph.com/@araya3lisa) 
+- [DEV](https://dev.to/ar3lisa) 
 
 ---
 
@@ -61,11 +60,13 @@ I write to **clarify systems**, not to oversimplify them.
 **Buen Día Builders** is the ecosystem I co-founded to scale this way of building.
 
 Core products:
-- **Código Futura** — Builders & Founders Journey  
-  https://github.com/BuenDia-Builders/codigofutura
+- [Código Futura](https://github.com/BuenDia-Builders/codigofutura) — Builders & Founders Journey  
+  
+- [Adviento Stellar 2025](https://adviento2025.buendiabuilders.com) — 25 days of Stellar + Soroban code challenges  
+  
+ - [Stellar Builder Assistant](https://chatgpt.com/g/g-691a2fd4617c819190daa7f5d3c2c690-stellar-builder-assistant-by-bdb) — learn Stellar & Soroban with guided answers  
+  
 
-- **Adviento Stellar 2025** — 25 days of Stellar + Soroban code challenges  
-  https://adviento2025.buendiabuilders.com
 
 ---
 
